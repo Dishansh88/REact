@@ -1,0 +1,21 @@
+*{
+  margin: 0px;
+}
+.main-box{
+  
+  background-image: url(../public/bgimg.jpg);
+  height: 100%;
+}
+.input1{
+  background: transparent;
+  box-shadow: 0px 0px 0px px;
+  border: 1px #15c5ec solid;
+  margin-bottom: 20px;
+}
+label{
+  color: rgb(175, 203, 227);
+}
+button:hover
+{
+  box-shadow: 0px 0px 2px 2px #000000;
+}
