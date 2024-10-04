@@ -1,0 +1,26 @@
+.box
+{
+    display: flex;
+    width: 72px;
+    height: 72px;
+    display: grid;
+    place-items: center;
+    border: 2px solid black;
+    font-size: 24px;
+    font-weight: 700;
+    border-radius: 5px;
+    
+}
+.mainbox
+{
+    display: flex;
+    gap: 24px;
+}
+.firstbox h1{
+   text-align: center;
+   border: none;
+}
+.firstbox p{
+    border: none;
+
+}

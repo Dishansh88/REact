@@ -1,0 +1,18 @@
+.maincontainer
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    border: 2px solid black;
+
+}
+.maincontainer img
+{
+    cursor: pointer;
+}
+.maincontainer p{
+    font-size: 20px;
+    font-weight: 700;
+}
